@@ -1,0 +1,16 @@
+## R packages
+
+# plyr <- tools for splitting, applying and combining data
+# dplyr <- a grammar of data manipulation
+# Hmisc <- harnell miscellaneous
+# XML <- tools for parsing and generating XML
+# RSqllite <- sqllite interface
+# sqldf <- perform sql select on R data frames
+# jsonlite <- json parser and generator
+# datasets <- R datasets packages
+# httr <- tools for working with urls and http
+# xlsx <- read, write format excel files
+# tcltk <- tcl tk interface
+# ggplot2 <- Grammar of Graphics
+
+Use R studio for more detailed information
